@@ -1,5 +1,4 @@
 # Project: GamseeAI
-[Project Website](https://jjangsta.github.io/GamseeAI/)
 
 ### What is GamseeAI?
 
@@ -14,8 +13,8 @@
 
 ### How to use
 
-1. Go to the following website : ___ download the _____.exe
-2. Run the _____.exe file
+1. Go to the following website [Project Website](https://jjangsta.github.io/GamseeAI/) download the GamseeAI.exe
+2. Run the GamseeAI.exe file
 3. After running the executable file, enter a valid email to recieve notifications
 4. Let the program run for as long as you want to
 
