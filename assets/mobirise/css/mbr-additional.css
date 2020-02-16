@@ -711,11 +711,12 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-rQElZ2ubl5 {
-  background: #ffffff;
+  background: #f5a32c;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 .cid-rQElZ2ubl5 .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-rQElZ2ubl5 .video-block {
@@ -789,6 +790,9 @@ section.lazy-placeholder:after {
     -webkit-justify-content: center;
     justify-content: center;
   }
+}
+.cid-rQEm1SyKUE P {
+  color: #cccccc;
 }
 .cid-rQErXb4JDR .navbar {
   padding: .5rem 0;
