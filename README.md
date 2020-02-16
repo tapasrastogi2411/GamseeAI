@@ -1,5 +1,5 @@
 # Project: GamseeAI
-(Project Website: https:\\jjangsta.github.io/gamseeai)
+[Project Website](jjangsta.github.io/gamseeai)
 
 ### What is GamseeAI?
 
