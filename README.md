@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 # Project: GamseeAI
 
 ### What is GamseeAI?
@@ -14,9 +7,15 @@
 ### Preview
 
 ### How to use
+
 1. Go to the following website :                   download the _____.exe
+2. Run the _____.exe file
+3. After running the executable file, enter a valid email to recieve notifications
+4. Let the program run for as long as you want to
+
 
 ### Credit and Contact
+
 - @jjangsta (Peter)
 - @ShawnGeorge03 (Shawn)
 - @shashwat-doshi (Shashwat)
