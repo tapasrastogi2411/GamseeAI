@@ -15,13 +15,8 @@
 
 ### How to use
 
-### Credit
+### Credit and Contact
 - @jjangsta (Peter)
 - @ShawnGeorge03 (Shawn)
 - @shashwat-doshi (Shashwat)
 - @tapasrastogi2411 (Tapas)
-
-
-### Contact
-
-
