@@ -13,7 +13,7 @@
 
 ### How to use
 
-1. Go to the following website [Project Website](https://jjangsta.github.io/GamseeAI/) download the GamseeAI.exe
+1. Go to the [Project Website](https://jjangsta.github.io/GamseeAI/) download the GamseeAI.exe
 2. Run the GamseeAI.exe file
 3. After running the executable file, enter a valid email to recieve notifications
 4. Let the program run for as long as you want to
