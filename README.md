@@ -14,6 +14,7 @@
 ### Preview
 
 ### How to use
+1. Go to the following website :                   download the _____.exe
 
 ### Credit and Contact
 - @jjangsta (Peter)
